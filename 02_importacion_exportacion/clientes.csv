@@ -1,0 +1,58 @@
+id_persona,numero_documento,tipo_persona,nombres,apaterno,amaterno,razon_social,email,telefono,estado,fecha_nacimiento,fecha_registro
+1,12345678,N,Juan Carlos,García,López,Juan Carlos García López,juan.garcia@email.com,987654321,Activo,1985-03-15,2026-06-19 02:51:56.400
+2,87654321,N,María Fernanda,Rodríguez,Martínez,María Fernanda Rodríguez Martínez,maria.rodriguez@email.com,912345678,Activo,1990-07-22,2026-06-19 02:51:56.400
+3,45678912,N,Carlos Alberto,Mendoza,Silva,Carlos Alberto Mendoza Silva,carlos.mendoza@email.com,998877665,Activo,1978-11-08,2026-06-19 02:51:56.400
+4,78912345,N,Ana Lucía,Torres,Vargas,Ana Lucía Torres Vargas,ana.torres@email.com,945612378,Activo,1995-02-14,2026-06-19 02:51:56.400
+5,32165498,N,Roberto José,Ramírez,Castillo,Roberto José Ramírez Castillo,roberto.ramirez@email.com,967812345,Activo,1982-09-30,2026-06-19 02:51:56.400
+6,65498732,N,Luisa María,Herrera,Rojas,Luisa María Herrera Rojas,luisa.herrera@email.com,923456789,Activo,1988-05-19,2026-06-19 02:51:56.400
+7,98732165,N,Pedro Pablo,Sánchez,Morales,Pedro Pablo Sánchez Morales,pedro.sanchez@email.com,956789123,Activo,1975-12-25,2026-06-19 02:51:56.400
+8,15975346,N,Carmen Rosa,Díaz,Flores,Carmen Rosa Díaz Flores,carmen.diaz@email.com,934567891,Activo,1993-04-07,2026-06-19 02:51:56.400
+9,75315948,N,Miguel Ángel,Vega,Gutiérrez,Miguel Ángel Vega Gutiérrez,miguel.vega@email.com,978912345,Activo,1980-08-11,2026-06-19 02:51:56.400
+10,48261597,N,Sofía Isabel,Castro,Ramos,Sofía Isabel Castro Ramos,sofia.castro@email.com,945678123,Activo,1998-01-28,2026-06-19 02:51:56.400
+11,X12345678,N,Diego Armando,Vargas,Salazar,Diego Armando Vargas Salazar,diego.vargas@email.com,912345987,Activo,1992-06-17,2026-06-19 02:51:56.400
+12,Y87654321,N,Valentina,Morales,Paredes,Valentina Morales Paredes,valentina.morales@email.com,987654123,Activo,1987-10-03,2026-06-19 02:51:56.400
+13,Z98765432,N,Andrés Felipe,Guerrero,Mendoza,Andrés Felipe Guerrero Mendoza,andres.guerrero@email.com,956789456,Activo,1994-03-21,2026-06-19 02:51:56.400
+14,AB1234567,N,Isabella,Rojas,Torres,Isabella Rojas Torres,isabella.rojas@email.com,923456789,Activo,1983-07-14,2026-06-19 02:51:56.400
+15,CD9876543,N,Santiago,Mendoza,Vargas,Santiago Mendoza Vargas,santiago.mendoza@email.com,967891234,Activo,1991-11-29,2026-06-19 02:51:56.400
+16,EF4567891,N,Camila,Castillo,Herrera,Camila Castillo Herrera,camila.castillo@email.com,934567891,Activo,1986-02-08,2026-06-19 02:51:56.400
+17,123456789,N,Sebastián,Ramos,Díaz,Sebastián Ramos Díaz,sebastian.ramos@email.com,978912345,Activo,1979-09-16,2026-06-19 02:51:56.400
+18,987654321,N,Mariana,Salazar,Vega,Mariana Salazar Vega,mariana.salazar@email.com,945678123,Activo,1996-05-25,2026-06-19 02:51:56.400
+19,456789123,N,Nicolás,Paredes,Castro,Nicolás Paredes Castro,nicolas.paredes@email.com,912345678,Activo,1984-12-12,2026-06-19 02:51:56.400
+20,12345-1990,N,Daniela,Gutiérrez,Sánchez,Daniela Gutiérrez Sánchez,daniela.gutierrez@email.com,987654321,Activo,1990-04-03,2026-06-19 02:51:56.400
+21,67890-1985,N,Alejandro,Flores,Morales,Alejandro Flores Morales,alejandro.flores@email.com,956789123,Activo,1988-08-27,2026-06-19 02:51:56.400
+22,EXT123456,N,Gabriela,Rojas,Torres,Gabriela Rojas Torres,gabriela.rojas@email.com,923456789,Activo,1976-01-19,2026-06-19 02:51:56.400
+23,EXT789012,N,Martín,Vargas,Salazar,Martín Vargas Salazar,martin.vargas@email.com,967891234,Activo,1993-06-09,2026-06-19 02:51:56.400
+24,REF456789,N,Luciana,Mendoza,Vargas,Luciana Mendoza Vargas,luciana.mendoza@email.com,934567891,Activo,1981-10-22,2026-06-19 02:51:56.400
+25,PTP123456,N,Mateo,Castillo,Herrera,Mateo Castillo Herrera,mateo.castillo@email.com,978912345,Activo,1997-03-11,2026-06-19 02:51:56.400
+26,DPI789012,N,Emilia,Ramos,Díaz,Emilia Ramos Díaz,emilia.ramos@email.com,945678123,Activo,1985-07-04,2026-06-19 02:51:56.400
+27,DIP456789,N,Benjamín,Salazar,Vega,Benjamín Salazar Vega,benjamin.salazar@email.com,912345678,Activo,1992-11-18,2026-06-19 02:51:56.400
+28,98765432,N,Victoria,Paredes,Castro,Victoria Paredes Castro,victoria.paredes@email.com,987654321,Activo,1977-02-28,2026-06-19 02:51:56.400
+29,POL123456,N,Joaquín,Gutiérrez,Sánchez,Joaquín Gutiérrez Sánchez,joaquin.gutierrez@email.com,956789123,Activo,1994-09-07,2026-06-19 02:51:56.400
+30,MIL789012,N,Renata,Flores,Morales,Renata Flores Morales,renata.flores@email.com,923456789,Activo,1989-05-15,2026-06-19 02:51:56.400
+31,12345678,N,Thiago,Rojas,Torres,Thiago Rojas Torres,thiago.rojas@email.com,967891234,Activo,1982-12-03,2026-06-19 02:51:56.400
+32,24681357,N,Antonella,Vargas,Salazar,Antonella Vargas Salazar,antonella.vargas@email.com,934567891,Activo,1995-08-20,2026-06-19 02:51:56.400
+33,13579246,N,Jerónimo,Mendoza,Vargas,Jerónimo Mendoza Vargas,jeronimo.mendoza@email.com,978912345,Activo,1986-04-14,2026-06-19 02:51:56.400
+34,97531864,N,Mía,Castillo,Herrera,Mía Castillo Herrera,mia.castillo@email.com,945678123,Activo,1991-10-09,2026-06-19 02:51:56.400
+35,86429753,N,Felipe,Ramos,Díaz,Felipe Ramos Díaz,felipe.ramos@email.com,912345678,Activo,1980-06-26,2026-06-19 02:51:56.400
+64,765432109,N,Raúl,Figueroa,Aguilar,Raúl Figueroa Aguilar,raul.figueroa@email.com,843210987,Activo,1987-03-18,2026-06-19 02:56:39.020
+65,23456-1992,N,Silvia,Gálvez,Cano,Silvia Gálvez Cano,silvia.galvez@email.com,832109876,Activo,1993-09-25,2026-06-19 02:56:39.020
+66,78901-1988,N,Tomás,Hidalgo,Orozco,Tomás Hidalgo Orozco,tomas.hidalgo@email.com,821098765,Activo,1979-01-12,2026-06-19 02:56:39.020
+67,EXT987654,N,Úrsula,Ibarra,Peña,Úrsula Ibarra Peña,ursula.ibarra@email.com,810987654,Activo,1996-07-08,2026-06-19 02:56:39.020
+68,EXT543210,N,Víctor,Jaramillo,Serrano,Víctor Jaramillo Serrano,victor.jaramillo@email.com,809876543,Activo,1984-11-30,2026-06-19 02:56:39.020
+69,REF987654,N,Wendy,Kohan,Vargas,Wendy Kohan Vargas,wendy.kohan@email.com,798765432,Activo,1990-05-22,2026-06-19 02:56:39.020
+70,PTP987654,N,Xavier,Luna,Acosta,Xavier Luna Acosta,xavier.luna@email.com,787654321,Activo,1976-08-14,2026-06-19 02:56:39.020
+71,DPI987654,N,Yolanda,Marín,Cruz,Yolanda Marín Cruz,yolanda.marin@email.com,776543210,Activo,1994-02-06,2026-06-19 02:56:39.020
+72,DIP987654,N,Zacarías,Navarro,Reyes,Zacarías Navarro Reyes,zacarias.navarro@email.com,765432109,Activo,1988-12-19,2026-06-19 02:56:39.020
+73,12345678,N,Adriana,Ochoa,Fuentes,Adriana Ochoa Fuentes,adriana.ochoa@email.com,754321098,Activo,1981-04-27,2026-06-19 02:56:39.020
+74,POL987654,N,Bruno,Palacios,Guerrero,Bruno Palacios Guerrero,bruno.palacios@email.com,743210987,Activo,1995-10-11,2026-06-19 02:56:39.020
+75,MIL987654,N,Claudia,Quintero,Molina,Claudia Quintero Molina,claudia.quintero@email.com,732109876,Activo,1983-06-03,2026-06-19 02:56:39.020
+76,87654321,N,Daniel,Romero,Vega,Daniel Romero Vega,daniel.romero@email.com,721098765,Activo,1992-09-15,2026-06-19 02:56:39.020
+77,36475829,N,Elena,Suárez,Castillo,Elena Suárez Castillo,elena.suarez@email.com,710987654,Activo,1978-01-28,2026-06-19 02:56:39.020
+78,25364758,N,Francisco,Terrazas,Mendoza,Francisco Terrazas Mendoza,francisco.terrazas@email.com,709876543,Activo,1997-05-20,2026-06-19 02:56:39.020
+104,75492349,N,Cristian Paul,Alvarado,Minchan,No Aplica,vonrabbid@gmail.com,932737997,Activo,2006-04-12,2026-06-19 16:36:12.090
+1002,71234567,N,Alejandro,Benavides,Carrasco,Alejandro Benavides Carrasco,,,Activo,1995-01-01,2026-10-02 15:46:06.757
+1003,72345678,N,Lucia Valeria,Mendoza,Quispe,Lucia Valeria Mendoza Quispe,,,Activo,1995-01-01,2026-10-02 15:46:06.757
+1004,73456789,N,Rodrigo Gonzalo,Perez,Alvarez,Rodrigo Gonzalo Perez Alvarez,,,Activo,1995-01-01,2026-10-02 15:46:06.757
+1005,74567890,N,Sofia Elena,Vargas,Morales,Sofia Elena Vargas Morales,,,Activo,1995-01-01,2026-10-02 15:46:06.757
+1006,75678901,N,Diego Alonso,Chavez,Flores,Diego Alonso Chavez Flores,,,Activo,1995-01-01,2026-10-02 15:46:06.757
+1007,76789012,N,Camila Belen,Reyes,Gutierrez,Camila Belen Reyes Gutierrez,,,Activo,1995-01-01,2026-10-02 15:46:06.757

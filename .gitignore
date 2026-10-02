@@ -1,0 +1,36 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+ENV/
+
+# Archivos de entorno y credenciales sensibles
+.env
+.env.local
+.env.*.local
+*.secret
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Archivos temporales
+*.tmp
+*.temp
+*~
+~$*
+
+# Volcados y backups pesados de base de datos
+*.bak
+*.bacpac
+*.dacpac
+*.trn
+*.log
+
+# IDEs y sistemas operativos
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

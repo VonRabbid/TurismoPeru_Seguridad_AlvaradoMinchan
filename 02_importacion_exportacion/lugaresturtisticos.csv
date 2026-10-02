@@ -1,0 +1,133 @@
+id_lugarturistico,nombre,descripcion,precio_entrada,horario_apertura,horario_cierre,calificacion,estado
+1,Plaza Mayor de Lima,"Centro histórico de Lima, rodeado por la Catedral, Palacio de Gobierno y el Palacio Municipal.",0.0,00:00:00,23:59:00,4.65,Activo
+2,Museo Larco,"Museo que alberga la mayor colección privada de arte precolombino del Perú, con más de 45,000 piezas.",30.0,09:00:00,22:00:00,4.85,Activo
+3,Huaca Pucllana,"Centro ceremonial limeno de la cultura Lima, ubicado en el corazón de Miraflores.",18.0,09:00:00,17:00:00,4.5,Activo
+4,Parque de la Reserva,"Complejo de fuentes de agua iluminadas, el más grande del mundo con iluminación láser.",7.0,15:00:00,22:30:00,4.7,Activo
+5,Pachacámac,Sitio arqueológico preincaico con pirámides y templos de adobe a orillas del mar.,20.0,09:00:00,17:00:00,4.55,Activo
+6,Catacumbas de San Francisco,"Criptas subterráneas de la Iglesia de San Francisco con restos de más de 25,000 personas.",15.0,09:30:00,21:00:00,4.6,Activo
+7,Barranco - Puente de los Suspiros,"Barrio bohemio de Lima con galerías de arte, restaurantes y el famoso puente romántico.",0.0,00:00:00,23:59:00,4.55,Activo
+8,Malecón de Miraflores,"Paseo costero con vista al océano Pacífico, parques y actividades al aire libre.",0.0,00:00:00,23:59:00,4.7,Activo
+9,Museo de la Nación,"Museo que exhibe la diversidad cultural del Perú a través de más de 20,000 piezas arqueológicas.",10.0,09:00:00,17:00:00,4.3,Activo
+10,Circuito Mágico del Agua,Parque temático con fuentes danzantes y espectáculos de agua y luz.,7.0,15:00:00,22:30:00,4.65,Activo
+11,Palacio de Torre Tagle,"Joyía de la arquitectura colonial, sede del Ministerio de Relaciones Exteriores.",0.0,09:00:00,17:00:00,4.45,Activo
+12,Zoológico de Huachipa,Zoológico con más de 800 animales de especies peruanas y exóticas.,15.0,09:00:00,17:00:00,4.2,Activo
+13,Machu Picchu,"Ciudadela inca del siglo XV, considerada una de las 7 maravillas del mundo moderno.",152.0,06:00:00,17:00:00,4.95,Activo
+14,Sacsayhuamán,Fortaleza inca con enormes bloques de piedra de hasta 125 toneladas.,70.0,07:00:00,17:30:00,4.75,Activo
+15,Qoricancha,"Templo del Sol, el más importante del Imperio Inca, base del Convento de Santo Domingo.",15.0,08:30:00,17:30:00,4.7,Activo
+16,Ollantaytambo,"Pueblo y fortaleza inca en el Valle Sagrado, con terrazas y templos monumentales.",70.0,07:00:00,17:30:00,4.8,Activo
+17,Pisac,Sitio arqueológico con impresionantes terrazas y mercado artesanal tradicional.,70.0,07:00:00,17:30:00,4.65,Activo
+18,Moray,Terrazas circulares incas que funcionaron como laboratorio agrícola experimental.,70.0,07:00:00,17:30:00,4.6,Activo
+19,Salineras de Maras,"Minas de sal con más de 3,000 pozos que datan de la época preincaica.",10.0,07:00:00,17:00:00,4.7,Activo
+20,Chinchero,Pueblo tradicional con restos arqueológicos incas y centro de textiles ancestrales.,10.0,07:00:00,17:00:00,4.55,Activo
+21,Catedral del Cusco,Obra maestra del arte colonial con más de 300 pinturas de la escuela cusqueña.,25.0,10:00:00,18:00:00,4.75,Activo
+22,Tambomachay,"Sitio arqueológico inca dedicado al culto del agua, conocido como baños del Inca.",70.0,07:00:00,17:30:00,4.5,Activo
+23,Qenqo,Centro ceremonial con rocas talladas y pasadizos subterráneos.,70.0,07:00:00,17:30:00,4.45,Activo
+24,Puca Pucara,Fortaleza roja inca que servía como puesto de control militar.,70.0,07:00:00,17:30:00,4.4,Activo
+25,Montaña de 7 Colores (Vinicunca),Montaña con estratos de colores naturales debido a su composición mineral.,20.0,05:00:00,16:00:00,4.8,Activo
+26,Valle Sagrado de los Incas,"Extenso valle con pueblos tradicionales, sitios arqueológicos y paisajes andinos.",0.0,00:00:00,23:59:00,4.85,Activo
+27,Humantay Lake,"Laguna turquesa al pie del nevado Salkantay, destino de trekking popular.",10.0,05:00:00,15:00:00,4.85,Activo
+28,Choquequirao,"Ciudadela inca hermana de Machu Picchu, accesible solo por trekking de 2 días.",60.0,06:00:00,17:00:00,4.9,Activo
+29,Mercado Central de San Pedro,"Mercado tradicional con productos andinos, jugos naturales y comida típica.",0.0,06:00:00,18:00:00,4.55,Activo
+30,Piedra de los 12 ángulos,Bloque de diorita verde perfectamente tallado en un muro inca de la calle Hatun Rumiyoc.,0.0,00:00:00,23:59:00,4.6,Activo
+31,Cañón del Colca,"Uno de los cañones más profundos del mundo, ideal para observar el vuelo del cóndor.",70.0,06:00:00,17:00:00,4.9,Activo
+32,Monasterio de Santa Catalina,"Ciudadela religiosa del siglo XVI con calles, plazas y claustros de colores vibrantes.",40.0,09:00:00,17:00:00,4.85,Activo
+33,Plaza de Armas de Arequipa,Centro histórico rodeado de casonas coloniales de sillar blanco y el Portal de las Flores.,0.0,00:00:00,23:59:00,4.75,Activo
+34,Volcán Misti,"Volcán activo de 5,822 msnm, símbolo de la ciudad, ideal para ascensos.",0.0,05:00:00,15:00:00,4.6,Activo
+35,Mirador de Yanahuara,Mirador con arcos de sillar blanco y vistas panorámicas de la ciudad y volcanes.,0.0,00:00:00,23:59:00,4.65,Activo
+36,Museo Santuarios Andinos (Juanita),"Museo que alberga la momia inca Juanita, sacrificada en el volcán Ampato.",30.0,09:00:00,18:00:00,4.8,Activo
+37,Cañón de Cotahuasi,"El cañón más profundo del mundo con 3,270 metros de profundidad.",0.0,06:00:00,17:00:00,4.7,Activo
+38,Reserva Nacional de Salinas y Aguada Blanca,"Reserva con lagunas, vicuñas y volcanes en la puna arequipeña.",10.0,06:00:00,16:00:00,4.55,Activo
+39,Terneros de Yanahuara,Barrio tradicional con arquitectura de sillar y miradores naturales.,0.0,00:00:00,23:59:00,4.4,Activo
+40,Catedral de Arequipa,"Imponente catedral de sillar blanco en la Plaza de Armas, con museo religioso.",15.0,09:00:00,18:00:00,4.7,Activo
+41,Lago Titicaca,"El lago navegable más alto del mundo a 3,812 msnm, sagrado para los incas.",0.0,00:00:00,23:59:00,4.9,Activo
+42,Islas Uros,"Islas flotantes artificiales hechas de totora, habitadas por los Uros.",10.0,07:00:00,17:00:00,4.55,Activo
+43,Isla Taquile,Isla con comunidades quechuas que mantienen sus tradiciones textiles Patrimonio de la Humanidad.,10.0,07:00:00,17:00:00,4.75,Activo
+44,Isla Amantaní,Isla con dos montañas sagradas y comunidades que ofrecen hospedaje familiar.,10.0,07:00:00,17:00:00,4.65,Activo
+45,Sillustani,Complejo funerario preincaico con torres funerarias o chullpas junto a la laguna Umayo.,15.0,06:00:00,17:00:00,4.7,Activo
+46,Catedral de Puno,Templo colonial en la Plaza de Armas con fachada barroca y arte religioso.,0.0,08:00:00,18:00:00,4.4,Activo
+47,Mirador Kuntur Wasi,Mirador con vista panorámica de la ciudad de Puno y el Lago Titicaca.,2.0,07:00:00,18:00:00,4.5,Activo
+48,Chucuito - Inca Uyo,Sitio arqueológico con templo de la fertilidad y formaciones fálicas de piedra.,10.0,07:00:00,17:00:00,4.35,Activo
+49,Líneas de Nazca,"Geoglifos gigantes de hasta 300 metros trazados en el desierto hace más de 2,000 años.",0.0,07:00:00,16:00:00,4.85,Activo
+50,Islas Ballestas,"Reserva natural con colonias de lobos marinos, pingüinos de Humboldt y aves guaneras.",35.0,08:00:00,14:00:00,4.75,Activo
+51,Reserva Nacional de Paracas,"Reserva costera con playas, desiertos y biodiversidad marina única.",11.3,08:00:00,17:00:00,4.7,Activo
+52,Oasis de Huacachina,"Oasis natural en medio del desierto con laguna, palmeras y deportes de arena.",4.0,08:00:00,20:00:00,4.65,Activo
+53,Cementerio de Chauchilla,Necrópolis preincaica con momias y cerámicas de la cultura Nazca bien conservadas.,10.0,08:00:00,17:00:00,4.4,Activo
+54,Museo Antonini,"Museo dedicado a la cultura Nazca con cerámicas, textiles y explicaciones sobre las líneas.",15.0,09:00:00,18:00:00,4.45,Activo
+55,Catedrales de Nazca,Formaciones geológicas naturales que parecen catedrales en el desierto.,5.0,08:00:00,17:00:00,4.3,Activo
+56,Viñedos de Ica,Haciendas vitivinícolas con degustación de piscos y vinos tradicionales.,15.0,09:00:00,17:00:00,4.5,Activo
+57,Chan Chan,"La ciudad de barro más grande de América, capital del reino Chimú.",11.0,08:00:00,16:00:00,4.75,Activo
+58,Huacas del Sol y la Luna,Complejo arqueológico mochica con murales policromados de gran valor artístico.,11.0,09:00:00,15:00:00,4.8,Activo
+59,Plaza de Armas de Trujillo,"Centro histórico con la Catedral, la Casa de la Emancipación y el Palacio Iturregui.",0.0,00:00:00,23:59:00,4.55,Activo
+60,Huanchaco,Pueblo pesquero tradicional con caballitos de totora y surf.,0.0,00:00:00,23:59:00,4.5,Activo
+61,El Brujo,Complejo arqueológico mochica donde se descubrió a la Señora de Cao.,11.0,09:00:00,16:00:00,4.7,Activo
+62,Marinera y Paso Peruano,Espectáculo de danza tradicional en la Hacienda Larco de Trujillo.,25.0,11:00:00,13:00:00,4.6,Activo
+63,Tumbas Reales de Sipán,"Museo que alberga los tesoros del Señor de Sipán, el mejor entierro mochica descubierto.",20.0,09:00:00,17:00:00,4.9,Activo
+64,Huaca Rajada - Sipán,Sitio arqueológico donde se descubrió la tumba del Señor de Sipán.,10.0,08:00:00,16:00:00,4.65,Activo
+65,Pirámides de Túcume,Complejo de 26 pirámides de adobe de la cultura Lambayeque.,10.0,09:00:00,16:00:00,4.5,Activo
+66,Museo Brüning,"Museo arqueológico con más de 1,500 piezas de culturas del norte peruano.",10.0,09:00:00,17:00:00,4.45,Activo
+67,Santuario Histórico Bosque de Pómac,Bosque seco con más de un millón de árboles de pómac y sitios arqueológicos.,10.0,07:00:00,16:00:00,4.55,Activo
+68,Kuélap,"Fortaleza de la cultura Chachapoyas a 3,000 msnm, con murallas de hasta 20 metros.",52.0,06:00:00,17:00:00,4.85,Activo
+69,Catarata Gocta,Una de las cataratas más altas del mundo con 771 metros de caída.,20.0,06:00:00,15:00:00,4.8,Activo
+70,Sarcófagos de Karajía,Figuras funerarias de la cultura Chachapoyas de hasta 2.5 metros en acantilados.,10.0,06:00:00,16:00:00,4.7,Activo
+71,Revash,"Mausoleos pintados de rojo en acantilados, de la cultura Chachapoyas.",10.0,06:00:00,16:00:00,4.6,Activo
+72,Laguna de los Cóndores,Laguna sagrada con leyendas chachapoyas y mausoleos en sus alrededores.,15.0,06:00:00,16:00:00,4.75,Activo
+73,Parque Nacional Huascarán,"Parque con el nevado más alto del Perú (6,768 msnm) y biodiversidad andina.",25.0,06:00:00,16:00:00,4.85,Activo
+74,Laguna 69,"Laguna turquesa a 4,600 msnm, destino popular de trekking en la Cordillera Blanca.",25.0,05:00:00,15:00:00,4.9,Activo
+75,Chavín de Huántar,"Sitio arqueológico de la cultura Chavín, centro ceremonial de hace 3,000 años.",15.0,08:00:00,16:30:00,4.7,Activo
+76,Laguna Parón,"La laguna más grande de la Cordillera Blanca, de color turquesa intenso.",10.0,06:00:00,16:00:00,4.8,Activo
+77,Pastoruri,"Nevado accesible por carretera, símbolo del cambio climático en los Andes.",10.0,07:00:00,15:00:00,4.55,Activo
+78,Laguna Llanganuco,"Par de lagunas turquesas al pie del Huascarán, en el Callejón de Huaylas.",10.0,06:00:00,17:00:00,4.85,Activo
+79,Reserva Nacional Tambopata,"Reserva amazónica con gran biodiversidad, refugios ecológicos y collpas de guacamayos.",0.0,00:00:00,23:59:00,4.9,Activo
+80,Parque Nacional del Manu,Patrimonio Natural de la Humanidad con la mayor biodiversidad del planeta.,150.0,06:00:00,17:00:00,4.95,Activo
+81,Collpa de Guacamayos - Chuncho,Pared arcillosa donde cientos de guacamayos y loros acuden diariamente.,0.0,05:00:00,10:00:00,4.85,Activo
+82,Lago Sandoval,"Lago en forma de herradura con nutrias gigantes, caimanes y monos.",0.0,06:00:00,17:00:00,4.8,Activo
+83,Canopy Walkway - Infierno,Pasarelas colgantes a 30 metros de altura en la copa de los árboles amazónicos.,50.0,07:00:00,15:00:00,4.75,Activo
+84,Río Amazonas,"El río más caudaloso del mundo, con cruceros fluviales y comunidades nativas.",0.0,00:00:00,23:59:00,4.85,Activo
+85,Reserva Nacional Pacaya Samiria,"La selva de las sombras reflejadas, con delfines rosados y gran biodiversidad.",0.0,06:00:00,17:00:00,4.8,Activo
+86,Iquitos - Ciudad sin carreteras,"La ciudad más grande del mundo sin acceso por carretera, en plena Amazonía.",0.0,00:00:00,23:59:00,4.55,Activo
+87,Belén - La Venecia de Iquitos,Barrio flotante sobre el río Nanay con mercado exótico de productos amazónicos.,0.0,06:00:00,18:00:00,4.3,Activo
+88,Centro de Rescate Amazónico (CRA),Centro de rescate y rehabilitación de fauna amazónica silvestre.,15.0,08:00:00,16:00:00,4.6,Activo
+89,Máncora,Playa paradisíaca con olas perfectas para el surf y vida nocturna vibrante.,0.0,00:00:00,23:59:00,4.7,Activo
+90,Puerto de Colán,Playa histórica con el muelle más antiguo de Sudamérica y aguas cálidas.,0.0,00:00:00,23:59:00,4.4,Activo
+91,Cataratas de Kuntur Wasi,Cataratas en Huancabamba con aguas cristalinas y misticismo andino.,5.0,06:00:00,16:00:00,4.55,Activo
+92,Desierto de Sechura,"Desierto con dunas, el oasis de Ñaupay y el misterioso bosque de piedras.",0.0,00:00:00,23:59:00,4.35,Activo
+93,Ventanillas de Otuzco,Necrópolis preinca con nichos tallados en roca volcánica.,10.0,08:00:00,17:00:00,4.5,Activo
+94,Cumbemayo,"Canal de piedra de hace 3,000 años con formaciones rocosas y petroglifos.",10.0,08:00:00,17:00:00,4.65,Activo
+95,Baños del Inca,Aguas termales medicinales donde se bañaba el Inca Atahualpa.,10.0,06:00:00,20:00:00,4.55,Activo
+96,Plaza de Armas de Cajamarca,Centro histórico donde fue capturado el Inca Atahualpa por los españoles.,0.0,00:00:00,23:59:00,4.6,Activo
+97,Lago Junín,"El segundo lago más grande del Perú, hábitat de aves migratorias.",0.0,00:00:00,23:59:00,4.4,Activo
+98,Ruinas de Tunanmarca,Antigua capital del reino Xauxa con estructuras circulares de piedra.,5.0,07:00:00,17:00:00,4.3,Activo
+99,Catarata de Bayoz,"Catarata de 150 metros en Oxapampa, rodeada de bosque neblinoso.",5.0,06:00:00,16:00:00,4.6,Activo
+100,Selva Central - Villa Rica,"Pueblo cafetalero con miradores, cataratas y degustación de café.",0.0,00:00:00,23:59:00,4.55,Activo
+101,Pampa de Ayacucho,Sitio histórico de la batalla que selló la independencia de América del Sur.,5.0,08:00:00,17:00:00,4.5,Activo
+102,Quinua,Pueblo alfarero tradicional con el obelisco conmemorativo de la batalla.,0.0,00:00:00,23:59:00,4.45,Activo
+103,Wari,"Ruinas de la primera cultura imperial andina, precursora de los incas.",10.0,08:00:00,16:00:00,4.55,Activo
+104,Iglesias coloniales de Ayacucho,Ciudad conocida como la capital religiosa del Perú con 33 iglesias.,0.0,00:00:00,23:59:00,4.6,Activo
+105,Catarata de Ahuashiyacu,"Catarata de 40 metros rodeada de vegetación tropical, a 15 minutos de Tarapoto.",5.0,07:00:00,17:00:00,4.55,Activo
+106,Laguna Azul,"Laguna de aguas turquesas en Yurimaguas, rodeada de selva amazónica.",5.0,06:00:00,17:00:00,4.6,Activo
+107,Cumbaza,"Pueblo ecológico con mariposario, orquideario y cataratas cercanas.",5.0,07:00:00,17:00:00,4.5,Activo
+108,Río Ucayali,"Afluente principal del Amazonas, con comunidades nativas y pesca deportiva.",0.0,00:00:00,23:59:00,4.4,Activo
+109,Laguna Yarinacocha,Laguna en Pucallpa con comunidades shipibo-conibo y artesanía tradicional.,0.0,00:00:00,23:59:00,4.35,Activo
+110,Punta Sal,"Playa de aguas cálidas y tranquilas, ideal para el descanso familiar.",0.0,00:00:00,23:59:00,4.65,Activo
+111,Parque Nacional Cerros de Amotape,Reserva de bosque seco ecuatorial con biodiversidad única.,10.0,06:00:00,16:00:00,4.45,Activo
+113,Baños Termales de La Calera,"Aguas termales naturales en Chivay, Cañón del Colca.",15.0,05:00:00,22:00:00,4.55,Activo
+114,Glaciar Pastoruri,"Nevado accesible afectado por el cambio climático, símbolo ambiental.",10.0,07:00:00,15:00:00,4.5,Inactivo
+115,Cuarto del Rescate,"Único vestigio de la arquitectura inca en Cajamarca, donde estuvo prisionero el Inca Atahualpa antes de su ejecución.",10.0,08:00:00,18:00:00,4.55,Activo
+116,Cerro Santa Apolonia,"Mirador natural con vistas panorámicas de la ciudad y el famoso ""Jardín de Piedras"" tallado en roca volcánica.",5.0,07:00:00,18:00:00,4.6,Activo
+117,Iglesia de San Francisco,Templo colonial del siglo XVII que alberga las momias de los bienhechores en sus criptas subterráneas.,10.0,09:00:00,18:00:00,4.5,Activo
+118,Catedral de Cajamarca,"Imponente catedral de estilo renacentista en la Plaza de Armas, con altar de pan de oro y arte sacro.",5.0,08:00:00,18:00:00,4.55,Activo
+119,Silla del Inca,"Formación rocosa natural con forma de silla, ubicada en las afueras de la ciudad, con valor histórico incaico.",5.0,07:00:00,17:00:00,4.35,Activo
+120,Granja Porcón,"Comunidad campesina cooperativa que ofrece turismo vivencial, caminatas y experiencias rurales auténticas.",10.0,07:00:00,17:00:00,4.7,Activo
+121,Cascada de Xecón,"Espectacular catarata de 80 metros de altura en el distrito de San Ignacio, rodeada de bosque nublado.",10.0,06:00:00,16:00:00,4.75,Activo
+122,Cascada de Huacamaillo,"Catarata de 50 metros en San Ignacio, con piscinas naturales ideales para el baño.",10.0,06:00:00,16:00:00,4.65,Activo
+123,Mirador de Los Perichones,"Mirador panorámico con vista de 360° a la ciudad de Cajamarca y sus alrededores, ideal al atardecer.",0.0,00:00:00,23:59:00,4.55,Activo
+124,Complejo Belén,Antiguo hospital colonial del siglo XVII con arquitectura única y historia vinculada a la independencia.,5.0,08:00:00,17:00:00,4.4,Activo
+125,Laguna Yanacocha,"Laguna de aguas oscuras ubicada a 4,000 msnm, rodeada de pajonales y paisajes andinos.",5.0,06:00:00,16:00:00,4.45,Activo
+126,Bosque de Piedras de Usno,"Formaciones rocosas naturales con formas caprichosas, sitio ceremonial de la cultura Caxamarca.",5.0,07:00:00,17:00:00,4.5,Activo
+127,Termas de Chancaybaños,"Aguas termales medicinales en Cutervo, con temperaturas de hasta 60°C y propiedades curativas.",10.0,06:00:00,20:00:00,4.6,Activo
+128,Parque Nacional de Cutervo,"El parque nacional más antiguo del Perú, con la Cueva de los Guácharos y biodiversidad única.",15.0,06:00:00,16:00:00,4.65,Activo
+129,Cueva de los Guácharos,"Cueva habitada por aves nocturnas llamadas guácharos, dentro del Parque Nacional de Cutervo.",15.0,07:00:00,15:00:00,4.55,Activo
+130,Cerro Dos Cabezas,"Formación rocosa con forma de dos cabezas, ideal para caminatas y escalada en Cajamarca.",5.0,06:00:00,17:00:00,4.3,Activo
+131,Cascada de Magda,"Catarata de 30 metros en Chota, rodeada de vegetación tropical y piscinas naturales.",5.0,06:00:00,16:00:00,4.45,Activo
+132,Santuario de la Virgen del Rosario,"Templo colonial en Chota, centro de peregrinación durante las festividades religiosas.",0.0,07:00:00,18:00:00,4.35,Activo
+133,Laguna El Gavilán,"Laguna altoandina en Chota, rodeada de paisajes verdes y fauna silvestre.",5.0,06:00:00,16:00:00,4.4,Activo

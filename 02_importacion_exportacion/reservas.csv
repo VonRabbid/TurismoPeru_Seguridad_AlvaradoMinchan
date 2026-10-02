@@ -1,0 +1,101 @@
+id_reserva,codigo_reserva,id_cliente,id_paquete,id_empleado,id_alojamiento,id_habitacion,fecha_reserva,fecha_inicio,fecha_fin,numero_personas,precio_total,adelanto,saldo_pendiente,id_estado_reserva,estado_reserva,observaciones
+1,RES-2026-0001,1,1,1,1,3,2026-01-15 10:30:00,2026-02-10,2026-02-13,2,3700.0,3700.0,0.0,2,Confirmada,Reserva confirmada con pago total anticipado
+2,RES-2026-0002,2,14,2,2,11,2026-01-20 14:15:00,2026-02-20,2026-02-23,4,4400.0,4400.0,0.0,4,Completada,"Servicio completado, cliente satisfecho"
+3,RES-2026-0003,3,27,3,3,15,2026-01-25 09:00:00,2026-03-01,2026-03-05,2,5200.0,5200.0,0.0,4,Completada,Tour ecológico completado exitosamente
+4,RES-2026-0004,4,41,4,4,21,2026-02-01 11:45:00,2026-03-10,2026-03-13,3,3750.0,3750.0,0.0,4,Completada,Tour fotográfico finalizado
+5,RES-2026-0005,5,13,5,5,28,2026-02-05 16:20:00,2026-03-15,2026-03-17,2,2900.0,2900.0,0.0,4,Completada,Tour gastronómico completado
+6,RES-2026-0006,6,2,6,1,5,2026-02-10 08:30:00,2026-03-20,2026-03-24,4,8800.0,8800.0,0.0,4,Completada,Trekking Ausangate completado
+7,RES-2026-0007,7,28,7,2,9,2026-02-12 13:00:00,2026-03-25,2026-03-27,2,2700.0,2700.0,0.0,4,Completada,Paracas ecológico finalizado
+8,RES-2026-0008,8,42,8,3,17,2026-02-15 10:15:00,2026-04-01,2026-04-02,1,350.0,350.0,0.0,4,Completada,Lima Express completado
+9,RES-2026-0009,9,15,9,4,23,2026-02-18 15:30:00,2026-04-05,2026-04-07,2,1500.0,1500.0,0.0,4,Completada,Cusco romántico finalizado
+10,RES-2026-0010,10,29,10,5,30,2026-02-20 09:45:00,2026-04-10,2026-04-12,2,2500.0,2500.0,0.0,4,Completada,Arequipa premium completado
+11,RES-2026-0011,11,3,11,6,33,2026-02-22 14:00:00,2026-04-15,2026-04-17,4,5800.0,5800.0,0.0,4,Completada,Canotaje Apurímac finalizado
+12,RES-2026-0012,12,30,12,7,37,2026-02-25 11:30:00,2026-04-20,2026-04-21,2,700.0,700.0,0.0,4,Completada,Paracas express completado
+13,RES-2026-0013,13,16,13,8,39,2026-02-28 16:45:00,2026-04-25,2026-04-27,2,3300.0,3300.0,0.0,4,Completada,Ruta gastronómica Lima finalizada
+14,RES-2026-0014,14,43,14,1,2,2026-03-02 10:00:00,2026-05-01,2026-05-10,2,6500.0,6500.0,0.0,4,Completada,Perú Premium completado
+15,RES-2026-0015,15,4,15,2,12,2026-03-05 13:20:00,2026-05-05,2026-05-06,2,650.0,650.0,0.0,4,Completada,Sandboarding Huacachina finalizado
+16,RES-2026-0016,16,31,16,3,18,2026-03-08 09:30:00,2026-05-10,2026-05-12,2,1850.0,1850.0,0.0,4,Completada,Escapada Paracas completada
+17,RES-2026-0017,17,17,17,4,24,2026-03-10 15:15:00,2026-05-15,2026-05-17,2,3700.0,3700.0,0.0,4,Completada,Sabores del Norte finalizado
+18,RES-2026-0018,18,44,18,5,31,2026-03-12 11:00:00,2026-05-20,2026-05-26,2,3800.0,3800.0,0.0,4,Completada,Perú Esencial completado
+19,RES-2026-0019,19,5,19,6,34,2026-03-15 14:45:00,2026-05-25,2026-05-28,4,7800.0,7800.0,0.0,4,Completada,Ruta Moche finalizada
+20,RES-2026-0020,20,32,20,7,38,2026-03-18 10:30:00,2026-06-01,2026-06-03,2,1500.0,1500.0,0.0,4,Completada,Cusco gastronómico completado
+21,RES-2026-0021,21,18,21,8,40,2026-03-20 16:00:00,2026-06-05,2026-06-09,2,10400.0,10400.0,0.0,4,Completada,Manu biodiversidad finalizado
+22,RES-2026-0022,22,6,22,1,6,2026-03-22 09:15:00,2026-06-10,2026-06-13,2,5550.0,5550.0,0.0,4,Completada,Imperio Wari completado
+23,RES-2026-0023,23,33,1,2,13,2026-03-25 13:30:00,2026-06-15,2026-06-17,2,2700.0,2700.0,0.0,4,Completada,Wellness Paracas finalizado
+24,RES-2026-0024,24,19,2,3,19,2026-03-28 11:45:00,2026-06-18,2026-06-20,2,4300.0,4300.0,0.0,4,Completada,Cusco fotográfico completado
+25,RES-2026-0025,25,45,3,4,25,2026-04-01 15:00:00,2026-06-20,2026-06-29,2,8500.0,8500.0,0.0,4,Completada,Perú a tu medida finalizado
+26,RES-2026-0026,26,7,4,5,29,2026-04-03 10:20:00,2026-06-22,2026-06-26,4,9600.0,9600.0,0.0,4,Completada,Chachapoyas mística completada
+27,RES-2026-0027,27,34,5,6,35,2026-04-05 14:30:00,2026-06-25,2026-06-27,2,1300.0,1300.0,0.0,4,Completada,Maratón Cusco finalizado
+28,RES-2026-0028,28,20,6,7,37,2026-04-08 09:00:00,2026-06-28,2026-06-30,2,2900.0,2900.0,0.0,4,Completada,Cusco romántico completado
+29,RES-2026-0029,29,46,7,8,39,2026-04-10 16:15:00,2026-07-01,2026-07-20,2,11000.0,11000.0,0.0,4,Completada,Perú Mágico finalizado
+30,RES-2026-0030,30,8,8,1,7,2026-04-12 11:30:00,2026-07-05,2026-07-07,2,2700.0,2700.0,0.0,4,Completada,Cajamarca imperial completado
+31,RES-2026-0031,31,21,9,2,10,2026-06-15 10:00:00,2026-07-10,2026-07-12,2,1900.0,1000.0,900.0,1,Pendiente,Cliente solicitó información adicional
+32,RES-2026-0032,32,35,10,3,16,2026-06-15 11:30:00,2026-07-15,2026-07-17,2,2500.0,0.0,2500.0,1,Pendiente,Esperando confirmación de vuelo
+33,RES-2026-0033,33,9,11,4,22,2026-06-16 09:45:00,2026-07-20,2026-07-22,2,1500.0,0.0,1500.0,1,Pendiente,Pendiente pago de adelanto
+34,RES-2026-0034,34,22,12,5,28,2026-06-16 14:20:00,2026-07-25,2026-07-29,4,7400.0,0.0,7400.0,1,Pendiente,"Grupo grande, verificando disponibilidad"
+35,RES-2026-0035,35,36,13,6,33,2026-06-17 10:15:00,2026-08-01,2026-08-03,2,2700.0,0.0,2700.0,1,Pendiente,Cliente evalúa opciones
+36,RES-2026-0036,71,10,14,7,37,2026-06-17 15:30:00,2026-08-05,2026-08-07,2,2900.0,0.0,2900.0,10,En Espera,Esperando disponibilidad de guía especializado
+37,RES-2026-0037,72,23,15,8,39,2026-06-18 09:00:00,2026-08-10,2026-08-12,2,4200.0,0.0,4200.0,10,En Espera,Esperando confirmación de hotel 5 estrellas
+38,RES-2026-0038,73,37,16,1,4,2026-06-18 13:45:00,2026-08-15,2026-08-17,2,2700.0,0.0,2700.0,1,Pendiente,Pendiente documentación del cliente
+39,RES-2026-0039,74,11,17,2,14,2026-06-18 16:00:00,2026-08-20,2026-08-23,4,6600.0,0.0,6600.0,10,En Espera,Esperando disponibilidad en temporada alta
+40,RES-2026-0040,75,24,18,3,17,2026-06-19 10:30:00,2026-08-25,2026-08-27,2,1500.0,0.0,1500.0,1,Pendiente,"Reserva creada hoy, pendiente confirmación"
+41,RES-2026-0041,76,38,19,4,26,2026-06-19 11:45:00,2026-09-01,2026-09-03,2,2300.0,0.0,2300.0,10,En Espera,Esperando respuesta del cliente
+42,RES-2026-0042,77,12,20,5,32,2026-06-19 14:00:00,2026-09-05,2026-09-09,4,8800.0,0.0,8800.0,1,Pendiente,"Grupo corporativo, pendiente aprobación"
+43,RES-2026-0043,78,25,21,6,36,2026-06-19 15:30:00,2026-09-10,2026-09-12,2,1300.0,0.0,1300.0,10,En Espera,Esperando disponibilidad de habitación
+44,RES-2026-0044,64,39,22,7,38,2026-06-19 16:45:00,2026-09-15,2026-09-17,2,2250.0,0.0,2250.0,1,Pendiente,Pendiente pago inicial
+45,RES-2026-0045,64,47,1,8,40,2026-06-19 17:00:00,2026-09-20,2026-09-22,2,2300.0,0.0,2300.0,10,En Espera,Esperando confirmación de transporte
+46,RES-2026-0046,71,26,2,1,1,2026-05-20 10:00:00,2026-07-15,2026-07-19,4,7400.0,3700.0,3700.0,12,Parcialmente Pagada,"Adelanto del 50% recibido, saldo pendiente"
+47,RES-2026-0047,72,40,3,2,11,2026-05-22 14:30:00,2026-07-20,2026-07-22,2,1250.0,625.0,625.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+48,RES-2026-0048,73,48,4,3,15,2026-05-25 09:15:00,2026-07-25,2026-07-27,2,950.0,475.0,475.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+49,RES-2026-0049,64,49,5,4,21,2026-05-28 16:00:00,2026-08-01,2026-08-02,1,1250.0,625.0,625.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+50,RES-2026-0050,65,50,6,5,28,2026-06-01 11:30:00,2026-08-05,2026-08-07,2,750.0,375.0,375.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+51,RES-2026-0051,1,3,7,6,33,2026-06-05 10:45:00,2026-08-10,2026-08-12,4,5800.0,2900.0,2900.0,12,Parcialmente Pagada,"Adelanto del 50%, saldo vence en 15 días"
+52,RES-2026-0052,2,16,8,7,37,2026-06-08 15:20:00,2026-08-15,2026-08-17,2,3300.0,1650.0,1650.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+53,RES-2026-0053,3,29,9,8,39,2026-06-10 09:30:00,2026-08-20,2026-08-22,2,2500.0,1250.0,1250.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+54,RES-2026-0054,4,42,10,1,8,2026-06-12 14:00:00,2026-08-25,2026-08-26,1,350.0,175.0,175.0,12,Parcialmente Pagada,Adelanto del 50% recibido
+55,RES-2026-0055,5,5,11,2,9,2026-06-15 11:15:00,2026-09-01,2026-09-04,4,7800.0,3900.0,3900.0,12,Parcialmente Pagada,"Adelanto del 50%, grupo familiar"
+56,RES-2026-0056,6,18,12,3,15,2026-05-01 10:00:00,2026-06-15,2026-06-19,2,10400.0,10400.0,0.0,3,En Proceso,Cliente actualmente en tour Manu
+57,RES-2026-0057,7,31,13,4,21,2026-05-10 14:30:00,2026-06-17,2026-06-19,2,1850.0,1850.0,0.0,3,En Proceso,Escapada Paracas en curso
+58,RES-2026-0058,8,44,14,5,28,2026-05-15 09:45:00,2026-06-18,2026-06-24,2,3800.0,3800.0,0.0,3,En Proceso,Perú Esencial en ejecución
+59,RES-2026-0059,9,7,15,6,33,2026-05-20 16:00:00,2026-06-19,2026-06-23,4,9600.0,9600.0,0.0,3,En Proceso,Chachapoyas en curso
+60,RES-2026-0060,10,20,16,7,37,2026-05-25 11:30:00,2026-06-18,2026-06-20,2,2900.0,2900.0,0.0,3,En Proceso,Cusco gastronómico en ejecución
+61,RES-2026-0061,11,33,17,8,39,2026-05-28 10:15:00,2026-06-17,2026-06-19,2,1300.0,1300.0,0.0,3,En Proceso,Maratón Cusco en curso
+62,RES-2026-0062,12,46,18,1,2,2026-06-01 15:00:00,2026-06-19,2026-07-08,2,11000.0,11000.0,0.0,3,En Proceso,Perú Mágico iniciado
+63,RES-2026-0063,13,9,19,2,12,2026-06-05 09:30:00,2026-06-18,2026-06-20,2,1500.0,1500.0,0.0,3,En Proceso,Cusco romántico en curso
+64,RES-2026-0064,14,22,20,3,18,2026-06-10 14:45:00,2026-06-19,2026-06-23,4,7400.0,7400.0,0.0,3,En Proceso,Chachapoyas mística en ejecución
+65,RES-2026-0065,15,35,21,4,24,2026-06-15 11:00:00,2026-06-17,2026-06-19,2,2500.0,2500.0,0.0,3,En Proceso,Surf Máncora en curso
+66,RES-2026-0066,16,11,22,5,30,2026-04-15 10:00:00,2026-05-20,2026-05-23,4,6600.0,6600.0,0.0,5,Cancelada,Cancelada por cliente por motivos personales
+67,RES-2026-0067,17,24,1,6,34,2026-04-20 14:30:00,2026-05-25,2026-05-27,2,1500.0,1500.0,0.0,5,Cancelada,"Cancelada por cliente, reembolso procesado"
+68,RES-2026-0068,18,37,2,7,37,2026-04-25 09:15:00,2026-06-01,2026-06-03,2,2700.0,2700.0,0.0,5,Cancelada,Cancelada por cliente por emergencia familiar
+69,RES-2026-0069,19,50,3,8,39,2026-05-01 16:00:00,2026-06-10,2026-06-12,2,750.0,750.0,0.0,5,Cancelada,"Cancelada por cliente, sin penalidad"
+70,RES-2026-0070,20,6,4,1,5,2026-05-05 11:30:00,2026-06-15,2026-06-19,4,8800.0,8800.0,0.0,6,Anulada,"Anulada por empresa, problema de disponibilidad"
+71,RES-2026-0071,21,19,5,2,13,2026-05-10 10:45:00,2026-06-20,2026-06-22,2,4300.0,4300.0,0.0,6,Anulada,"Anulada por empresa, guía no disponible"
+72,RES-2026-0072,22,32,6,3,17,2026-05-15 15:20:00,2026-06-25,2026-06-27,2,1500.0,1500.0,0.0,5,Cancelada,"Cancelada por cliente, viaje pospuesto"
+73,RES-2026-0073,23,45,7,4,23,2026-05-18 09:30:00,2026-06-30,2026-07-09,2,8500.0,8500.0,0.0,6,Anulada,"Anulada por empresa, sobreventa detectada"
+74,RES-2026-0074,24,8,8,5,29,2026-05-22 14:00:00,2026-07-05,2026-07-07,2,2700.0,2700.0,0.0,5,Cancelada,"Cancelada por cliente, cambio de planes"
+75,RES-2026-0075,25,21,9,6,35,2026-05-25 11:15:00,2026-07-10,2026-07-12,2,1900.0,1900.0,0.0,6,Anulada,"Anulada por empresa, condiciones climáticas"
+76,RES-2026-0076,26,34,10,7,37,2026-05-01 10:00:00,2026-07-20,2026-07-22,2,2700.0,2700.0,0.0,8,Reprogramada,"Reprogramada por clima adverso, nuevas fechas confirmadas"
+77,RES-2026-0077,27,47,11,8,39,2026-05-05 14:30:00,2026-07-25,2026-08-13,2,11000.0,11000.0,0.0,8,Reprogramada,Reprogramada por solicitud del cliente
+78,RES-2026-0078,28,10,12,1,3,2026-05-10 09:15:00,2026-08-01,2026-08-03,2,2900.0,2900.0,0.0,8,Reprogramada,Reprogramada por disponibilidad de hotel
+79,RES-2026-0079,29,23,13,2,11,2026-05-15 16:00:00,2026-08-10,2026-08-12,2,4200.0,4200.0,0.0,8,Reprogramada,Reprogramada por motivos de salud del cliente
+80,RES-2026-0080,30,36,14,3,16,2026-05-20 11:30:00,2026-08-15,2026-08-17,2,2700.0,2700.0,0.0,7,Modificada,Modificada: cambio de habitación a suite
+81,RES-2026-0081,31,49,15,4,22,2026-05-25 10:45:00,2026-08-20,2026-08-21,1,1250.0,1250.0,0.0,7,Modificada,Modificada: aumento de personas de 1 a 2
+82,RES-2026-0082,32,2,16,5,28,2026-05-28 15:20:00,2026-08-25,2026-08-29,4,8800.0,8800.0,0.0,7,Modificada,Modificada: upgrade de paquete básico a premium
+83,RES-2026-0083,33,15,17,6,33,2026-06-01 09:30:00,2026-09-01,2026-09-03,2,1500.0,1500.0,0.0,8,Reprogramada,Reprogramada por vuelo cancelado
+84,RES-2026-0084,34,28,18,7,37,2026-03-15 10:00:00,2026-04-10,2026-04-12,2,2500.0,2500.0,0.0,9,Reembolsada,Reembolsada por cancelación de vuelo por aerolínea
+85,RES-2026-0085,35,41,19,8,39,2026-03-20 14:30:00,2026-04-15,2026-04-17,2,3750.0,3750.0,0.0,9,Reembolsada,Reembolsada por emergencia médica documentada
+86,RES-2026-0086,64,4,20,1,6,2026-02-01 09:15:00,2026-03-01,2026-03-02,2,650.0,650.0,0.0,11,Vencida,Vencida: cliente no confirmó a tiempo
+87,RES-2026-0087,65,17,21,2,14,2026-02-10 16:00:00,2026-03-15,2026-03-17,2,3700.0,3700.0,0.0,11,Vencida,Vencida: pago no recibido en plazo
+88,RES-2026-0088,66,30,22,3,18,2026-02-20 11:30:00,2026-04-01,2026-04-02,2,700.0,700.0,0.0,14,No Show,No Show: cliente no se presentó sin aviso
+89,RES-2026-0089,67,43,1,4,24,2026-03-01 10:45:00,2026-04-10,2026-04-19,2,6500.0,6500.0,0.0,14,No Show,No Show: cliente no llegó al punto de encuentro
+90,RES-2026-0090,68,6,2,5,30,2026-03-10 15:20:00,2026-04-20,2026-04-24,4,7800.0,7800.0,0.0,13,Sobreventa,Sobreventa: hotel confirmó más reservas de las disponibles
+91,RES-2026-0091,69,19,3,6,34,2026-03-15 09:30:00,2026-04-25,2026-04-27,2,4300.0,4300.0,0.0,13,Sobreventa,Sobreventa: guía turístico duplicado en sistema
+92,RES-2026-0092,70,32,4,7,37,2026-03-20 14:00:00,2026-05-01,2026-05-03,2,1500.0,1500.0,0.0,9,Reembolsada,Reembolsada por cierre temporal del destino
+93,RES-2026-0093,71,45,5,8,39,2026-03-25 11:15:00,2026-05-10,2026-05-19,2,8500.0,8500.0,0.0,11,Vencida,Vencida: documentación incompleta del cliente
+94,RES-2026-0094,72,8,6,1,2,2026-04-01 10:00:00,2026-05-15,2026-05-17,2,2700.0,2700.0,0.0,4,Completada,Cajamarca imperial completado
+95,RES-2026-0095,73,21,7,2,10,2026-04-05 14:30:00,2026-05-20,2026-05-22,2,1900.0,1900.0,0.0,4,Completada,Ruta del pisco finalizada
+96,RES-2026-0096,74,34,8,3,15,2026-04-10 09:15:00,2026-05-25,2026-05-27,2,2700.0,2700.0,0.0,4,Completada,Ciclismo Valle Sagrado completado
+97,RES-2026-0097,75,47,9,4,21,2026-04-15 16:00:00,2026-06-01,2026-06-20,2,11000.0,11000.0,0.0,4,Completada,Perú Mágico finalizado
+98,RES-2026-0098,76,10,10,5,28,2026-04-20 11:30:00,2026-06-05,2026-06-07,2,2900.0,2900.0,0.0,4,Completada,Lago Titicaca místico completado
+99,RES-2026-0099,77,23,11,6,33,2026-04-25 10:45:00,2026-06-10,2026-06-12,2,4200.0,4200.0,0.0,4,Completada,Cusco business finalizado
+100,RES-2026-0100,78,36,12,7,37,2026-05-01 15:20:00,2026-06-15,2026-06-17,2,2700.0,2700.0,0.0,4,Completada,Carnaval Cajamarca completado

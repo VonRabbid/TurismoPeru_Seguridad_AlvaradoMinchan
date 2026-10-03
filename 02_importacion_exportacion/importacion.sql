@@ -24,7 +24,7 @@ IF NOT EXISTS (SELECT * FROM sys.synonyms WHERE name = 'cliente' AND schema_id =
 GO
 
 -- Comando BCP para carga masiva:
--- bcp TURISMOPERU_CPAM.dbo.cliente_importacion in "clientes.csv" -c -t "," -r "0x0a" -F 2 -S 161.132.54.162 -U estudiante -P "Unc.2026" -u
+-- bcp TURISMOPERU_CPAM.dbo.cliente_importacion in "clientes.csv" -c -t "," -r "0x0a" -F 2 -S 161.132.54.162 -U <USUARIO_SQL> -P "<CONTRASEÑA_SQL>" -u
 
 -- Detección de duplicados internos en el lote
 WITH LoteNumerado AS (

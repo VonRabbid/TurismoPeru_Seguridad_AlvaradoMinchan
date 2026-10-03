@@ -52,24 +52,24 @@ Para el despliegue, auditoría y ejecución de los módulos del proyecto se requ
 - **Servidor Remoto:** `161.132.54.162`
 - **Puerto:** `1433` (TCP/IP)
 - **Base de Datos Autorizada:** `TURISMOPERU_CPAM`
-- **Usuario Operativo:** `estudiante`
-- **Contraseña:** `Unc.2026`
+- **Usuario Operativo:** Administrado de forma segura en variables de entorno (`.env`)
+- **Contraseña:** Administrada de forma segura en variables de entorno (`.env`)
 - **Cifrado de Canal:** `Encrypt=yes` / `Encrypt=True`
 - **Validación de Certificados:** `TrustServerCertificate=yes` / `TrustServerCertificate=True`
 
 ### 5.2 Configuración de Variables de Entorno para Python
-El archivo `06_python/.env` contiene las credenciales locales de ejecución y se encuentra estrictamente protegido por `.gitignore`. Para configurar un nuevo entorno:
+El archivo `06_python/.env` contiene las credenciales locales de ejecución y se encuentra estrictamente protegido y excluido del control de versiones mediante `.gitignore`. Para configurar un nuevo entorno:
 1. Copiar la plantilla oficial:
    ```powershell
    Copy-Item 06_python/.env.example 06_python/.env
    ```
-2. Verificar los parámetros contenidos en `06_python/.env`:
+2. Completar los parámetros confidenciales en `06_python/.env`:
    ```env
    DB_SERVER=161.132.54.162
    DB_PORT=1433
    DB_NAME=TURISMOPERU_CPAM
-   DB_USER=estudiante
-   DB_PASSWORD=Unc.2026
+   DB_USER=<TU_USUARIO>
+   DB_PASSWORD=<TU_CONTRASEÑA>
    DB_ENCRYPT=yes
    DB_TRUST_CERT=yes
    ```
@@ -155,7 +155,7 @@ El procedimiento de restauración garantiza la recuperación de la base de datos
 - **`WITH RECOVERY`:** Ejecuta la fase de reversión (*Rollback/Redo*) de las transacciones incompletas, cierra el proceso de restauración y deja la base de datos completamente en línea (`ONLINE`) y operativa.
 
 ### 8.2 Secuencia de Restauración Paso a Paso (T-SQL)
-Ejecutar el script `03_backups/restauracion.sql` con una cuenta de privilegios administrativos (`sa` o `estudiante`):
+Ejecutar el script `03_backups/restauracion.sql` con una cuenta de privilegios administrativos de base de datos:
 
 ```sql
 USE master;

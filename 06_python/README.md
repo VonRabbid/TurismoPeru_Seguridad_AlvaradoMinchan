@@ -71,12 +71,12 @@ Las dependencias clave instaladas son:
    ```powershell
    Copy-Item .env.example .env
    ```
-2. Verificar los parámetros de conexión dentro del archivo `.env`:
+2. Configurar los parámetros de conexión dentro del archivo `.env`:
    ```env
    DB_SERVER=161.132.54.162
    DB_DATABASE=TURISMOPERU_CPAM
-   DB_USER=estudiante
-   DB_PASSWORD=Unc.2026
+   DB_USER=<TU_USUARIO>
+   DB_PASSWORD=<TU_CONTRASEÑA>
    DB_DRIVER=ODBC Driver 18 for SQL Server
    DB_ENCRYPT=yes
    DB_TRUST_CERT=yes

@@ -55,8 +55,8 @@ load_dotenv(dotenv_path=env_path)
 
 DB_SERVER = os.getenv("DB_SERVER", "161.132.54.162")
 DB_DATABASE = os.getenv("DB_DATABASE", "TURISMOPERU_CPAM")
-DB_USER = os.getenv("DB_USER", "estudiante")
-DB_PASSWORD = os.getenv("DB_PASSWORD", "Unc.2026")
+DB_USER = os.getenv("DB_USER", "")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "")
 DB_DRIVER = os.getenv("DB_DRIVER", "ODBC Driver 18 for SQL Server")
 
 EVIDENCIAS_DIR = os.path.join(PROJECT_ROOT, "evidencias")
@@ -71,6 +71,11 @@ os.makedirs(TEMP_IMG_DIR, exist_ok=True)
 # 2. CONEXIÓN A BASE DE DATOS MEDIANTE SQLALCHEMY / PYODBC
 # ------------------------------------------------------------------------------
 def get_db_engine():
+    if not DB_USER or not DB_PASSWORD:
+        raise ValueError(
+            "Credenciales de base de datos no configuradas. "
+            "Por favor, configure DB_USER y DB_PASSWORD en el archivo .env"
+        )
     print(f"[CONEXIÓN] Conectando a {DB_SERVER} -> Base de datos: {DB_DATABASE}...")
     connection_url = sa.engine.URL.create(
         "mssql+pyodbc",

@@ -89,8 +89,8 @@ Asegurarse de contar con el archivo `06_python/.env` configurado con las credenc
 DB_SERVER=161.132.54.162
 DB_PORT=1433
 DB_NAME=TURISMOPERU_CPAM
-DB_USER=estudiante
-DB_PASSWORD=Unc.2026
+DB_USER=<TU_USUARIO>
+DB_PASSWORD=<TU_CONTRASEÑA>
 DB_ENCRYPT=yes
 DB_TRUST_CERT=yes
 ```
